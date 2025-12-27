@@ -19,6 +19,7 @@
 - **项目其它代码（Lambda函数）**：https://github.com/fyfighting0/lavavel_other_code
 
 ##  AWS 平台功能链接
+目前配置好的服务可通过此链接访问：http://laravel-alb-768515851.ap-northeast-1.elb.amazonaws.com/ , 其他用到的AWS的各种组件如下：
 - **AppConfig**：https://ap-northeast-1.console.aws.amazon.com/systems-manager/appconfig/applications?region=ap-northeast-1
 - **EventBridge**：https://ap-northeast-1.console.aws.amazon.com/events/home?region=ap-northeast-1#/rules
 - **SNS**：https://ap-northeast-1.console.aws.amazon.com/sns/v3/home?region=ap-northeast-1#/topics
